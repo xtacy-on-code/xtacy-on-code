@@ -41,7 +41,7 @@ sleep  ▓▓▓░░░░░░░  25%
 
 | item | what it does | |
 | :-- | :-- | :-- |
-| 📣 **[Shikayat](https://github.com/sarthak0707git/shikayat)** | Gemma 4 reads Hinglish rants about the mess food and turns them into a ranked campus complaint board. Wardens hate this one trick. | [▶ demo](https://xtacy-on-code.github.io/shikayat-live/) |
+| 📣 **[Shikayat](https://github.com/sarthak0707git/shikayat)** | Gemma 4 reads Hinglish rants about the mess food and turns them into a ranked campus complaint board. Wardens hate this one trick. | `Gemma 4` `Python` |
 | 📋 **[MyXL](https://github.com/xtacy-on-code/MyXL)** | Rescued an HR team from their giant Excel tracker. The spreadsheet did not go quietly. | `React` `Node` `Postgres` |
 | 🖍️ **[AureLine](https://github.com/xtacy-on-code/AureLine)** | Upload a PDF and an AI highlights the parts that matter, right on the page. Like a topper's notes, minus the topper. | [▶ demo](https://aure-line.vercel.app) |
 | 💸 **[payment-verifier](https://github.com/xtacy-on-code/payment-verifier)** | Matches UPI payments against bank SMS, so nobody has to zoom into 40 blurry payment screenshots. | `Node` |
