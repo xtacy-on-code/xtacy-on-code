@@ -17,11 +17,11 @@ vedant is a tamagotchi now. he runs on chai, gets weird without sleep, and **you
         / >💻
 ```
 
-**mood:** sleepy &nbsp;·&nbsp; **level 1** (0 xp, next at 200) &nbsp;·&nbsp; **shipped:** 0 &nbsp;·&nbsp; **bugs:** 4
+**mood:** sleepy &nbsp;·&nbsp; **level 1** (10 xp, next at 200) &nbsp;·&nbsp; **shipped:** 0 &nbsp;·&nbsp; **bugs:** 4
 
 ```text
-chai   ▓▓▓▓▓▓░░░░  55%
-sleep  ▓▓▓░░░░░░░  30%
+chai   ▓▓▓▓▓▓▓▓░░  80%
+sleep  ▓▓▓░░░░░░░  25%
 ```
 
 **do something:** [☕ give chai](https://github.com/xtacy-on-code/xtacy-on-code/issues/new?title=game%7Cchai&body=Just%20hit%20**Submit%20new%20issue**.%20A%20bot%20will%20do%20the%20rest%20in%20about%2030%20seconds.) · [😴 send to bed](https://github.com/xtacy-on-code/xtacy-on-code/issues/new?title=game%7Csleep&body=Just%20hit%20**Submit%20new%20issue**.%20A%20bot%20will%20do%20the%20rest%20in%20about%2030%20seconds.) · [🐛 squash a bug](https://github.com/xtacy-on-code/xtacy-on-code/issues/new?title=game%7Cbug&body=Just%20hit%20**Submit%20new%20issue**.%20A%20bot%20will%20do%20the%20rest%20in%20about%2030%20seconds.) · [🚀 push to prod](https://github.com/xtacy-on-code/xtacy-on-code/issues/new?title=game%7Cdeploy&body=Just%20hit%20**Submit%20new%20issue**.%20A%20bot%20will%20do%20the%20rest%20in%20about%2030%20seconds.) · [🏆 hackathon!](https://github.com/xtacy-on-code/xtacy-on-code/issues/new?title=game%7Chackathon&body=Just%20hit%20**Submit%20new%20issue**.%20A%20bot%20will%20do%20the%20rest%20in%20about%2030%20seconds.)
@@ -30,9 +30,9 @@ sleep  ▓▓▓░░░░░░░  30%
 
 **what happened lately**
 
-- nothing yet. he's waiting for his first chai.
+- Oct 28: **@xtacy-on-code** gave chai ☕. cutting chai delivered. he is now legally a senior dev.
 
-**top caretakers:** nobody yet. be the first.
+**top caretakers:** 🥇 @xtacy-on-code (1)
 <!--GAME:END-->
 
 ---
