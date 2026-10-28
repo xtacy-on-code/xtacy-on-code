@@ -1,55 +1,52 @@
-## hi, i'm vedant 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Vedant%20Zala&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20dev%20%C2%B7%20CSE%20%40%20IIT%20Bhilai&descAlignY=58&descSize=16" width="100%"/>
 
-i build full-stack apps, sneak LLMs into them, and go to hackathons for the free food and the lack of sleep.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=I+build+full-stack+apps+that+ship;Sneaking+LLMs+into+everything;C%2B%2B+competitive+programmer;Open+to+Summer+2027+SWE+internships" />
+</p>
 
-**class:** full-stack dev &nbsp;·&nbsp; **subclass:** AI tinkerer &nbsp;·&nbsp; **special move:** shipping at 4 a.m. &nbsp;·&nbsp; **weakness:** "just one more feature"
-
----
-
-### 🐣 keep vedant alive
-
-vedant is a tamagotchi now. he runs on chai, gets weird without sleep, and **you** are in charge of him. press a button.
-
-<!--GAME:START-->
-```text
-        (\_/)
-        ( -_-)     "it works on my machine"
-        / >💻
-```
-
-**mood:** sleepy &nbsp;·&nbsp; **level 1** (10 xp, next at 200) &nbsp;·&nbsp; **shipped:** 0 &nbsp;·&nbsp; **bugs:** 4
-
-```text
-chai   ▓▓▓▓▓▓▓▓░░  80%
-sleep  ▓▓▓░░░░░░░  25%
-```
-
-**do something:** [☕ give chai](https://github.com/xtacy-on-code/xtacy-on-code/issues/new?title=game%7Cchai&body=Just%20hit%20**Submit%20new%20issue**.%20A%20bot%20will%20do%20the%20rest%20in%20about%2030%20seconds.) · [😴 send to bed](https://github.com/xtacy-on-code/xtacy-on-code/issues/new?title=game%7Csleep&body=Just%20hit%20**Submit%20new%20issue**.%20A%20bot%20will%20do%20the%20rest%20in%20about%2030%20seconds.) · [🐛 squash a bug](https://github.com/xtacy-on-code/xtacy-on-code/issues/new?title=game%7Cbug&body=Just%20hit%20**Submit%20new%20issue**.%20A%20bot%20will%20do%20the%20rest%20in%20about%2030%20seconds.) · [🚀 push to prod](https://github.com/xtacy-on-code/xtacy-on-code/issues/new?title=game%7Cdeploy&body=Just%20hit%20**Submit%20new%20issue**.%20A%20bot%20will%20do%20the%20rest%20in%20about%2030%20seconds.) · [🏆 hackathon!](https://github.com/xtacy-on-code/xtacy-on-code/issues/new?title=game%7Chackathon&body=Just%20hit%20**Submit%20new%20issue**.%20A%20bot%20will%20do%20the%20rest%20in%20about%2030%20seconds.)
-
-<sub>each button opens an issue. hit submit, and a bot updates him in about 30 seconds. chai and sleep drain every day, so he needs you.</sub>
-
-**what happened lately**
-
-- Oct 28: **@xtacy-on-code** gave chai ☕. cutting chai delivered. he is now legally a senior dev.
-
-**top caretakers:** 🥇 @xtacy-on-code (1)
-<!--GAME:END-->
+<p align="center">
+  <a href="https://linkedin.com/in/vedantzala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://aure-line.vercel.app"><img src="https://img.shields.io/badge/AureLine_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🎒 inventory
+### 👋 About me
 
-| item | what it does | |
-| :-- | :-- | :-- |
-| 📣 **[Shikayat](https://github.com/sarthak0707git/shikayat)** | Gemma 4 reads Hinglish rants about the mess food and turns them into a ranked campus complaint board. Wardens hate this one trick. | `Gemma 4` `Python` |
-| 📋 **[MyXL](https://github.com/xtacy-on-code/MyXL)** | Rescued an HR team from their giant Excel tracker. The spreadsheet did not go quietly. | `React` `Node` `Postgres` |
-| 🖍️ **[AureLine](https://github.com/xtacy-on-code/AureLine)** | Upload a PDF and an AI highlights the parts that matter, right on the page. Like a topper's notes, minus the topper. | [▶ demo](https://aure-line.vercel.app) |
-| 💸 **[payment-verifier](https://github.com/xtacy-on-code/payment-verifier)** | Matches UPI payments against bank SMS, so nobody has to zoom into 40 blurry payment screenshots. | `Node` |
+- 🎓 B.Tech CSE @ **IIT Bhilai** ('28)
+- 🛠️ Full-stack builder who sneaks LLMs into apps
+- 🤖 Currently exploring **agentic AI & automation**
+- ⚔️ Competitive programming in C++ · 200+ problems solved
+- 🎯 Looking for **Summer 2027 SWE internships**
 
-### ⚔️ equipped
+### 🚀 Featured projects
 
-`TypeScript` `React` `Angular` `Next.js` `Node` `NestJS` `Express` `PostgreSQL` `MongoDB` `Python` `Docker`
+| Project | What it does | Stack |
+|:--|:--|:--|
+| 🖍️ **[AureLine](https://github.com/xtacy-on-code/AureLine)** | Upload a PDF and AI highlights what matters, right on the page. [▶ demo](https://aure-line.vercel.app) | `React` `Node` `MongoDB` `Groq` |
+| 📣 **[Shikayat](https://github.com/sarthak0707git/shikayat)** | Turns Hinglish rants about mess food into a ranked campus complaint board | `Gemma 4` `Python` |
+| 📋 **[MyXL](https://github.com/xtacy-on-code/MyXL)** | HR system that replaced a giant Excel tracker | `React` `Node` `Postgres` |
+| 💸 **[payment-verifier](https://github.com/xtacy-on-code/payment-verifier)** | Matches UPI payments against bank SMS — no more squinting at screenshots | `Node` |
 
----
+### 🧰 Tech stack
 
-<sub>no gradients were harmed in the making of this profile. powered by chai and a GitHub Action.</sub>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,python,react,nextjs,angular,nodejs,nestjs,express,postgres,mongodb,redis,docker,git&perline=8" />
+</p>
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xtacy-on-code&show_icons=true&hide_border=true&theme=github_dark&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtacy-on-code&layout=compact&hide_border=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=xtacy-on-code&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xtacy-on-code&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
